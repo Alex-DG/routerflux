@@ -1,6 +1,6 @@
 # routerflux
 
-React native router flux example
+React native router flux example with tabs navigation
 
 ```
 yarn install
